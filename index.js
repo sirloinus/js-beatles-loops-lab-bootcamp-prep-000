@@ -28,7 +28,11 @@ function johnLennonFacts(facts) {
 
 
 
+<<<<<<< HEAD
 function iLoveTheBeatles(number) {
+=======
+function iLovetheBeatles(number) {
+>>>>>>> 549fc07842a8d5773daf8ce6b7798da6758591fd
   const arrayLove = []
     
   do {
